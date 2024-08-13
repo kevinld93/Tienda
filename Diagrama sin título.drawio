@@ -100,6 +100,12 @@
             <mxPoint x="500" y="69.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="683gGI8NnBL4DG24gwkC-27" value="N" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="683gGI8NnBL4DG24gwkC-29" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
