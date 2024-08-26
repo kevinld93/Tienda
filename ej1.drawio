@@ -145,11 +145,23 @@
             <mxPoint x="590" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LEoPJzPLq4Y0wCzoxTbO-43" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LEoPJzPLq4Y0wCzoxTbO-43" value="N" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LEoPJzPLq4Y0wCzoxTbO-44" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="130" width="80" height="40" as="geometry" />
+          <mxGeometry x="270" y="175" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LEoPJzPLq4Y0wCzoxTbO-46" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEoPJzPLq4Y0wCzoxTbO-47" value="n" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="260" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEoPJzPLq4Y0wCzoxTbO-49" value="N=M" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEoPJzPLq4Y0wCzoxTbO-50" value="Producto eliminado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
