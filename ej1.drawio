@@ -160,8 +160,20 @@
         <mxCell id="LEoPJzPLq4Y0wCzoxTbO-49" value="N=M" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LEoPJzPLq4Y0wCzoxTbO-50" value="Producto eliminado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="LEoPJzPLq4Y0wCzoxTbO-50" value="N=1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEoPJzPLq4Y0wCzoxTbO-52" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEoPJzPLq4Y0wCzoxTbO-53" value="N" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="210" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LEoPJzPLq4Y0wCzoxTbO-54" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="65" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEoPJzPLq4Y0wCzoxTbO-55" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
